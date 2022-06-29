@@ -1,0 +1,35 @@
+.text {
+  padding-top: 40px;
+  text-align: center;
+}
+.text img {
+  max-width: 100%;
+}
+
+.foto img {
+  border-radius: 50%;
+}
+
+@media (max-width: 1814px) {
+  .text {
+    font-size: 36px;
+  }
+}
+
+@media (max-width: 1670px) {
+  .text {
+    font-size: 28px;
+  }
+}
+
+@media (max-width: 1325px) {
+  .text {
+    font-size: 22px;
+  }
+
+  @media (max-width: 340px) {
+    .text {
+      font-size: 18px;
+    }
+  }
+}

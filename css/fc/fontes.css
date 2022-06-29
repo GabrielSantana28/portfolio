@@ -1,0 +1,35 @@
+.p20r {
+  font-weight: 400;
+font-size: 20px;
+line-height: 44px;
+}
+
+.p20sb {
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 44px;
+}
+
+.p29m {
+  font-weight: 500;
+font-size: 29px;
+line-height: 44px;
+}
+
+.p36m {
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 54px;
+}
+
+.p40sb {
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 60px;
+}
+
+.p45sb {
+  font-weight: 600;
+  font-size: 45px;
+  line-height: 68px;
+}

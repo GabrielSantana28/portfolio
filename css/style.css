@@ -1,0 +1,19 @@
+/* Global */
+@import "./global/global.css";
+@import "./global/header.css";
+
+/* Estilo do Site */
+@import "./estilo/decoracao.css";
+@import "./estilo/animacao.css";
+
+/* Fontes e Cores */
+@import "./fc/fontes.css";
+@import "./fc/cores.css";
+
+/* Início de tudo */
+@import "./inicio/primeiro.css";
+@import "./inicio/segundo.css";
+@import "./inicio/terceiro.css";
+
+/* Footer */
+@import "./footer/footer.css";

@@ -1,0 +1,20 @@
+.cor-d {
+  color: #585858;
+}
+
+.cor-d-o {
+  color: #000;
+  opacity: 80%;
+}
+
+.cor-p {
+  color: #012ceb;
+}
+
+.cor-eb {
+  color: #01c7fc;
+}
+
+.linear {
+  background-image: linear-gradient(to top, #00c6fb 0%, #005bea 100%);
+}
